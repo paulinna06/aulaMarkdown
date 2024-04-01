@@ -18,3 +18,12 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+### Engenharia de Requisitos
+
+- A Engenharia de Requisitos é uma área responsável por realizar o levantamento, definição, documentação e manutenção dos requisitos necessários para que um software ou aplicação possa rodar sem maiores problemas, dentro de um projeto de Engenharia de Software.
+
+#### tipos de requisitos
+
+- **Requisitos não funcionais**: lidam com questões como escalabilidade, capacidade de manutenção, desempenho, portabilidade, segurança, confiabilidade e muito mais.
+- **Requisitos funcuionais**: Um requisito funcional define-se pela necessidade, uma função de um aplicativo móvel ou parte dele, ele é o conjunto de funcionalidades que vão compor o seu aplicativo. Exemplo: cadastro de usuários, login, geolocalização, busca por listas, emissão de relatórios etc.
