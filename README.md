@@ -37,3 +37,19 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--SKUh3GHz--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o63vc02gw53b0r1xw505.jpg" alt="requisitos funcionais" width="450px">
 <img src="https://dhg1h5j42swfq.cloudfront.net/2023/10/16115710/imagem-inicial-1.png" alt="requisitos não funcionais" width="450px">
 
+
+## Tabela comparativa
+
+
+Ucs | Oque é
+----| ----------------
+uc1 | o usuário abrirá o app e verá a tela inicial, depois terá de aguardar a aparição do botão login.
+Uc2 | Clique no botão login
+
+**Obs:essas ucs são do trabalho que tivemos que criar um site**
+
+## Links usados no trabalho
+
+Link 1:[clica aqui](https://engsoftmoderna.info/cap3.html).
+Link 2:[clica aqui](https://visuresolutions.com/pt/blog/non-functional-requirements/#:~:text=Requisitos%20N%C3%A3o%20Funcionais%20(NFRs)%20s%C3%A3o,seguran%C3%A7a%2C%20confiabilidade%20e%20muito%20mais.).
+Link 3:[clica aqui](https://visuresolutions.com/pt/blog/functional-requirements/#:~:text=Os%20requisitos%20funcionais%20podem%20ser,duas%20partes%3A%20fun%C3%A7%C3%A3o%20e%20comportamento.).
