@@ -1,4 +1,5 @@
-# Aula prática - Markdown
+# Aula prática - Markdown <img src="https://media.tenor.com/A3KiIjUa7I4AAAAj/sanrio-hello-kitty-sanrio-character.gif token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RjYjVmMGU1LTMwNmEtNDVhOC04YTc5LTZlNzA3M2EzMzM3NlwvZDZ1dm85eS00YmNmYTUxNS0wNjM5LTQ3NjYtYWY5Ny1jM2M2MGZiMTgzOWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MhmmFonwXn1VGvgKvdKNdLCUNDtvL0rUoM_4_ZZSrI4" width="80px">
+
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
